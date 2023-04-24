@@ -1,4 +1,4 @@
-# Web Development Quiz
+# Daily Schedule App
 
 ## Author
 
@@ -27,7 +27,7 @@ N/a
 
 To use this daily planner just type your task into one of the time slots. Color of time slots will already be sorting based of current time and time of the task slot.
 
-local storage will store that data for later retrieval on page reset.
+local storage will store that data for later retrieval on page reset and will be updated to new task if updated.
 
 ![Website screenshot](./Assets/images/Capture1.PNG)
 ![Website screenshot](./Assets/images/Capture2.PNG)
