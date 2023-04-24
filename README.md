@@ -36,9 +36,9 @@ local storage will store that data for later retrieval on page reset.
 
 ## Deployment
 
-Repo: https://github.com/devv-nunn/RandomQuestionGen
+Repo: https://github.com/devv-nunn/dailySchedule
 
-GitPage: https://devv-nunn.github.io/RandomQuestionGen/
+GitPage: https://devv-nunn.github.io/dailySchedule/
 
 # Tech Stack
 
