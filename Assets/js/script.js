@@ -10,7 +10,7 @@ var currentTime;
 
 // this function displays timer located in the header using day.js
 function displayTime() {
-  var rightNow = dayjs().format("MMM DD, YYYY [at] hh:mm:ss a");
+  var rightNow = dayjs().format("dddd, MMMM D YYYY");
   timeLocation.text(rightNow);
 }
 
